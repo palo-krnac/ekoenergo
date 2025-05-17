@@ -14,6 +14,7 @@ __pycache__/
 *-cache.lib              # cache knižnica (od KiCad 6 sa nepoužíva, ale pre istotu)
 *-rescue.lib
 *-rescue.dcm
+* .lck
 
 # Zálohy schém a PCB
 *.kicad_sch-bak
@@ -31,7 +32,7 @@ gerbers/
 *.csv
 *.net
 *.bom
-*.pdf
+
 *.svg
 *.step
 *.stl
