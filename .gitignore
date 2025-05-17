@@ -1,0 +1,50 @@
+# Základné zálohy a dočasné súbory
+*.bak
+*.bkp
+*.tmp
+*.log
+*.swp
+*.swo
+*.zip
+__pycache__/
+*.pyc
+
+# KiCad projektové súbory – dočasné a generované
+*.kicad_prl              # posledne otvorené záložky
+*-cache.lib              # cache knižnica (od KiCad 6 sa nepoužíva, ale pre istotu)
+*-rescue.lib
+*-rescue.dcm
+
+# Zálohy schém a PCB
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# Staré footprint cache
+fp-info-cache
+.fplib-cache
+
+# Výstupy, ktoré budeš generovať pre výrobu, ale netreba ich trackovať
+gerbers/
+*.gbr
+*.drl
+*.pos
+*.csv
+*.net
+*.bom
+*.pdf
+*.svg
+*.step
+*.stl
+*.3dshapes/
+*.gbrjob
+
+# 3D modely a exporty
+*.wrl
+*.kicad_mod
+*.x3d
+*.iges
+*.obj
+
+# Platform-specific
+.DS_Store
+Thumbs.db
