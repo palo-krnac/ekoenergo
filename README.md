@@ -34,7 +34,6 @@ Without this feature, a fixed full-duty load on the panels — especially in **l
 | **Recommended heating element**      | 2–3 kW / 230 V                       |
 | **Minimum resistive load**           | approx. 15 Ω                         |
 
-You can verify heating element compatibility with your PV array using the downloadable **Excel calculator** in the [Downloads](#) section.
 
 ---
 
