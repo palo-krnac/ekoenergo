@@ -188,6 +188,9 @@
 	(net 44 "unconnected-(J1-Pin_10-Pad10)")
 	(net 45 "unconnected-(J1-Pin_32-Pad32)")
 	(net 46 "unconnected-(J1-Pin_38-Pad38)")
+	(net 47 "unconnected-(J1-Pin_47-Pad47)")
+	(net 48 "unconnected-(J1-Pin_39-Pad39)")
+	(net 49 "unconnected-(J1-Pin_41-Pad41)")
 	(footprint "Resistor_SMD:R_0805_2012Metric"
 		(layer "F.Cu")
 		(uuid "1794c24d-df91-451d-a43e-ef18e38a635c")
@@ -308,7 +311,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/76068ef8-79b8-4f62-b065-429f60d94d94")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -549,7 +552,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/8cf28ca2-26ef-447e-a49d-f097b0bcf120")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -813,7 +816,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/8b79b3df-17cd-4a22-9d95-65a2dfa05e95")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -1026,7 +1029,7 @@
 		(property ki_fp_filters "TO?247*")
 		(path "/1dd6761a-f4f7-42e3-bdeb-972b7587328d")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 13.65 2.5)
@@ -1251,7 +1254,7 @@
 		(property ki_fp_filters "D?DO?201AE*")
 		(path "/972a2989-2335-40fd-9baa-b4248cbc7389")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 1.54 0)
@@ -1649,7 +1652,7 @@
 		)
 		(path "/03da0363-52a1-4e81-857b-5873f8d1ca00")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -3.66 -2.15)
@@ -1996,7 +1999,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/a55f1f1e-36b7-4177-90dc-07b13b44126f")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -6.35 -5.08)
@@ -2336,7 +2339,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c4c56fdf-064e-46a5-b11b-05027fda1509")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.16 -17.58)
@@ -8105,7 +8108,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/3ecf06ef-48a7-46d7-9ca9-b03a530bf1fa")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -8369,7 +8372,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/4d822074-0308-49a1-a7de-b5385bd147d0")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -6.35 -5.08)
@@ -8670,7 +8673,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/4143b913-224b-4d5f-b1ed-b8b44e464350")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -8883,7 +8886,7 @@
 		(property ki_fp_filters "TO?247*")
 		(path "/1e550a27-5d95-4c02-82ec-275599648a86")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 13.65 2.5)
@@ -9171,7 +9174,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/f796bb07-60ee-4040-9220-9407b207e373")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -6.35 -5.08)
@@ -9511,7 +9514,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/527d9a9b-7a5c-418d-ae96-0407efa8d2f1")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.16 -17.58)
@@ -15280,7 +15283,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/c9150e3b-0c08-4bac-9f89-441703ffa778")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -15544,7 +15547,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/005d7381-ba04-4b19-b6b8-ecfad5860eca")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.685 -0.96)
@@ -15830,7 +15833,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/71a59bf1-00d1-445a-986b-d9990330ae54")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.685 -0.96)
@@ -16155,7 +16158,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/cee6b52b-09c0-4937-b4b6-99fcf09fbb57")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 11.62 -4.12)
@@ -16441,7 +16444,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f9c8a1e5-b509-4af3-b7ee-197765271e87")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.261252 -0.735)
@@ -16682,7 +16685,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/70cc3917-729f-48c8-b233-9b524bb52465")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -16932,7 +16935,7 @@
 		)
 		(path "/8b10d676-f55f-453b-aa28-fc7560300268")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start 0 -2.56)
@@ -17271,7 +17274,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/38d70d76-f638-42b7-838e-f0d059bab04c")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.227064 -0.735)
@@ -17548,7 +17551,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/9d21a0d2-b25f-4e58-ae98-f2b243c6ea53")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -6.35 -5.08)
@@ -17826,7 +17829,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/cfbdc689-a8a8-49be-bf0b-90c69a407ee7")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -18129,7 +18132,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/ca19c918-42c2-4c84-8ef7-3ecb6fda0b5c")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 5.16 -17.58)
@@ -23875,7 +23878,7 @@
 		(property ki_fp_filters "MountingHole*Pad*")
 		(path "/5cea7364-2724-4d4d-a4ce-234fc4144e1d")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
@@ -24139,7 +24142,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/93a2955d-c920-4ce7-b5f1-b638848a380c")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -1.685 -0.96)
@@ -24425,7 +24428,7 @@
 		(property ki_fp_filters "TerminalBlock*:*")
 		(path "/e8e05e42-94d6-4788-816c-faa8003d2aab")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_rect
 			(start -6.35 -5.08)
@@ -24615,7 +24618,7 @@
 		(property "Reference" "Q4"
 			(at -2.25 2.95 0)
 			(layer "F.SilkS")
-			(uuid "bcf3136e-8b24-43a6-98a8-49a2231723ad")
+			(uuid "8adb2db7-c9c8-4f42-a03c-e7e5b7259435")
 			(effects
 				(font
 					(size 0.5 0.5)
@@ -24627,7 +24630,7 @@
 		(property "Value" "47n60"
 			(at 5.45 3.25 0)
 			(layer "F.Fab")
-			(uuid "a0fff352-303e-48be-896e-c748116ef174")
+			(uuid "91f19b67-7eb8-405f-9ffd-3d2f2a0a7c72")
 			(effects
 				(font
 					(size 1 1)
@@ -24639,7 +24642,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e2846beb-eb94-4a76-9775-6603253e164a")
+			(uuid "f13d7793-d2dc-4253-9579-471f24eaccf0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24651,7 +24654,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a284943d-5727-4aee-bcb7-2ea53dccb700")
+			(uuid "54882dab-7d54-4c33-92a2-c702d49b23e8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24675,7 +24678,7 @@
 		(property ki_fp_filters "TO?247*")
 		(path "/8c82bd9c-d5ab-4acb-8db0-5684195fd49e")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 13.65 2.5)
@@ -24912,7 +24915,7 @@
 		(property ki_fp_filters "TO?247*")
 		(path "/8b381993-968b-4b65-a60f-ba500ff4e39e")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start 13.65 2.5)
@@ -25147,7 +25150,7 @@
 		)
 		(path "/47b4ee7c-1d9f-4f64-8c90-2b7618f239c1")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.38 59.8)
@@ -25709,8 +25712,8 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 5 "/T3")
-			(pinfunction "T3")
+			(net 48 "unconnected-(J1-Pin_39-Pad39)")
+			(pinfunction "Pin_39")
 			(pintype "passive")
 			(uuid "29596662-f5f3-4f2a-b41e-95a4a0d6b55e")
 		)
@@ -25731,9 +25734,9 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 3 "/OUT_B")
-			(pinfunction "T3G")
-			(pintype "output")
+			(net 49 "unconnected-(J1-Pin_41-Pad41)")
+			(pinfunction "Pin_41")
+			(pintype "passive")
 			(uuid "3df483fb-1760-4017-8c9a-3cf7407f17c5")
 		)
 		(pad "42" thru_hole circle
@@ -25797,9 +25800,9 @@
 			(drill 1)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(net 6 "/T4")
-			(pinfunction "T4")
-			(pintype "output")
+			(net 47 "unconnected-(J1-Pin_47-Pad47)")
+			(pinfunction "Pin_47")
+			(pintype "passive")
 			(uuid "00670b9d-2d8f-4da1-a321-156a44b9cdb5")
 		)
 		(pad "48" thru_hole circle
@@ -25997,7 +26000,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/df99a85f-7760-498d-b791-24301f63bd04")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr through_hole)
 		(fp_line
 			(start -1.62 4.12)
@@ -26306,7 +26309,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/2e8d64d0-c285-4ef8-9c6d-ccd614c01530")
 		(sheetname "/")
-		(sheetfile "WSH550.kicad_sch")
+		(sheetfile "ekoenergo.kicad_sch")
 		(attr smd)
 		(fp_line
 			(start -0.797369 -2.21)
