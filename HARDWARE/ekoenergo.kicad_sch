@@ -3976,6 +3976,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 132 0 0 1)
 			)
 			(justify left bottom)
 		)
@@ -3987,6 +3988,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 132 0 0 1)
 			)
 			(justify left bottom)
 		)
@@ -5422,16 +5424,6 @@
 		)
 		(uuid "2d840260-d9b8-4571-818c-f1751fa73d1d")
 	)
-	(label "DC+"
-		(at 106.68 27.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2e4c7a37-b3f5-4368-9b13-2a83d164d4a5")
-	)
 	(label "GND"
 		(at 171.45 49.53 0)
 		(effects
@@ -5463,16 +5455,6 @@
 		(uuid "648ec635-5a34-494a-aa82-5e06265e13db")
 	)
 	(label "DC+"
-		(at 118.11 25.4 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "661a187e-1c87-4af9-a8cd-af9d5a84e83d")
-	)
-	(label "DC+"
 		(at 73.66 19.05 0)
 		(effects
 			(font
@@ -5491,16 +5473,6 @@
 			(justify right bottom)
 		)
 		(uuid "739a0b42-6955-4093-926a-1cc753c7f9c0")
-	)
-	(label "DC+"
-		(at 129.54 24.13 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8091862f-ae2b-45a2-9163-aa90bcdaffca")
 	)
 	(label "OUT_A"
 		(at 208.28 71.12 0)
@@ -5533,7 +5505,7 @@
 		(uuid "92ef7b19-9000-4a54-b04f-0cc424146b84")
 	)
 	(label "A1"
-		(at 146.05 86.36 0)
+		(at 139.7 86.36 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5572,6 +5544,16 @@
 		)
 		(uuid "f29d90b9-f05f-4dd6-88ed-acb4b4331abc")
 	)
+	(label "DC-"
+		(at 134.62 49.53 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f62d224c-8c42-487d-a7a2-11dd11b4bb25")
+	)
 	(label "T3G"
 		(at 128.27 156.21 0)
 		(effects
@@ -5593,7 +5575,7 @@
 		(uuid "f7994df3-71f1-460c-bd32-c1b75b41e88f")
 	)
 	(label "A2"
-		(at 157.48 33.02 0)
+		(at 154.94 33.02 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7003,7 +6985,7 @@
 			)
 		)
 		(property "Value" "470uF/450V"
-			(at 101.6 17.78 0)
+			(at 114.3 17.526 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8753,7 +8735,7 @@
 			)
 		)
 		(property "Value" "470uF/450V"
-			(at 124.46 17.78 0)
+			(at 114.3 15.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9008,7 +8990,7 @@
 			)
 		)
 		(property "Value" "470uF/450V"
-			(at 113.03 16.51 0)
+			(at 114.3 13.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
