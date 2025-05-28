@@ -1,6 +1,6 @@
 # ekoenergo – Solar Water Heating Inverter
 
-ekoenergo is an open source project of a solar inverter for heating domestic hot water. It can be used to power a boiler coil and connect electric resistance heating coils and radiators.
+**ekoenergo** is an open source project of a solar inverter for heating domestic hot water. It can be used to power a boiler coil and connect electric resistance heating coils and radiators.
 
 This inverter is specifically designed to optimize the use of photovoltaic (PV) panels for powering a standard electric heating element in a domestic hot water (DHW) storage tank (boiler). It converts direct current (DC) from PV panels into alternating current (AC) with a 50 Hz rectangular waveform and a variable duty cycle ranging from approximately **3% to 98%**.
 
